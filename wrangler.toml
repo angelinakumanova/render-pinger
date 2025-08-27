@@ -1,0 +1,9 @@
+name = "render-pinger"
+main = "index.js"
+compatibility_date = "2025-08-27"
+
+[triggers]
+crons = ["*/14 * * * *"]
+
+[vars]
+BACKEND_URL = "https://focusx-user-service.onrender.com;https://focusx-session-service.onrender.com;https://focusx-goal-service.onrender.com"
