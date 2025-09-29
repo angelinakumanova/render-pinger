@@ -6,4 +6,4 @@ compatibility_date = "2025-08-27"
 crons = ["*/14 * * * *"]
 
 [vars]
-BACKEND_URL = "https://notification-service-focusx-x8ky.onrender.com;https://goal-service-focusx-mym5.onrender.com;https://session-service-focusx-3ia6.onrender.com;https://focusx-user-service-lg70.onrender.com"
+BACKEND_URL = "https://session-service-focusx-owi8.onrender.com;https://user-service-focusx-e0au.onrender.com;https://goal-service-focusx-necf.onrender.com;https://notification-service-focusx-xb7v.onrender.com"
