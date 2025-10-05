@@ -1,4 +1,4 @@
-name = "render-pinger"
+name = "focusx-pinger"
 main = "index.js"
 compatibility_date = "2025-08-27"
 
